@@ -1,0 +1,1 @@
+API_SECRET_KEY = "YOUR_SECRET_AKI_KEY" # available on your open AI profile.
